@@ -9,4 +9,9 @@
 # GET BY ID
 ![image](https://github.com/engkoskostaman97/book-restful-api/assets/110719940/a2b9f628-717e-4f06-9d6d-829d8363351d)
 
+# PUT 
+![image](https://github.com/engkoskostaman97/book-restful-api/assets/110719940/aebdee70-7a9d-4443-8f4b-0e0cea8fd7a5)
+
+
+
 
