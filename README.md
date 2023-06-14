@@ -1,4 +1,13 @@
 # book-restful-api
+
+step by step :
+1.Connection DB POSTGRES SQL 
+2.Create Entity table database 
+3.Create payloads request and response 
+4.add repositories repository
+5.service and service implementation 
+6.add controller port endpoint
+
 # POST 
 ![image](https://github.com/engkoskostaman97/book-restful-api/assets/110719940/0c2992bb-db91-47db-8430-c7900d4e7767)
 # GET ALL
@@ -10,6 +19,9 @@
 # DELETE
 ![image](https://github.com/engkoskostaman97/book-restful-api/assets/110719940/be13bbcd-5e3f-41f4-8aa3-f9607ae9c7ee)
 
+
+reperensi :
+https://blog.fazztrack.com/membuat-rest-api-dengan-java-spring-boot-bagian-3-restful-api-dengan-spring-boot-56764147014d
 
 
 
