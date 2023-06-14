@@ -1,5 +1,6 @@
 # book-restful-api
 
 # POST 
-![0_leXDbYKzz7A4a-S6](https://github.com/engkoskostaman97/book-restful-api/assets/110719940/a898398e-905f-4d7b-a813-bf603cb2d3c6)
+![image](https://github.com/engkoskostaman97/book-restful-api/assets/110719940/0c2992bb-db91-47db-8430-c7900d4e7767)
+
 
