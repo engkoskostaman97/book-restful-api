@@ -12,6 +12,10 @@
 # PUT 
 ![image](https://github.com/engkoskostaman97/book-restful-api/assets/110719940/aebdee70-7a9d-4443-8f4b-0e0cea8fd7a5)
 
+# Delete 
+![image](https://github.com/engkoskostaman97/book-restful-api/assets/110719940/be13bbcd-5e3f-41f4-8aa3-f9607ae9c7ee)
+
+
 
 
 
